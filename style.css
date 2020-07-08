@@ -1,0 +1,11 @@
+body{
+    background-color: darkslategray;
+}
+.btn{
+    border-radius: 50px;
+}
+
+.span{
+    width: 100px;
+    display: inline-block;
+}
